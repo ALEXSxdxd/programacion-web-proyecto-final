@@ -135,3 +135,18 @@
     display: none;
   }
   
+  /*Boton de inicio de sesion*/
+
+  .botondeinicio{
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .botondeinicio li input{
+    background-color: blueviolet;
+    color: #fff;
+    height: 36px;
+    width: 110px;
+    border: none;
+    border-radius: 4px;
+  }
